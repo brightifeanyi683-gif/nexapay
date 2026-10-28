@@ -39,7 +39,7 @@ export default function SignIn() {
     }
 
     setMessage(
-      "Your details have been entered. Sign-in authentication will be connected in the next step."
+      "Form validated successfully! Sign-in will be available once authentication is connected."
     );
   }
 

@@ -55,7 +55,7 @@ export default function SignUp() {
     }
 
     setMessage(
-      "Your form is valid. Account creation is not connected yet; authentication will be added in the next step."
+      "Form validated successfully! Account registration will be available soon."
     );
   }
 
